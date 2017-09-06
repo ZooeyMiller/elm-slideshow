@@ -1,0 +1,23 @@
+{
+  "name": "elm-slideshow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZooeyMiller/elm-slideshow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZooeyMiller/elm-slideshow/issues"
+  },
+  "homepage": "https://github.com/ZooeyMiller/elm-slideshow#readme",
+  "dependencies": {
+    "elm": "^0.18.0",
+    "elm-live": "^2.7.5"
+  }
+}
